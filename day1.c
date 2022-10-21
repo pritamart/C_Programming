@@ -6,7 +6,7 @@ consumption units           Rate of charge
 0-200                       Rs. 5 per unit
 201-400                     Rs. 100 + 7 per unit
 401-600                     Rs. 200 + 8 per unit
-600 and above               Rs. 300 + 9 per unit
+600 above               Rs. 300 + 9 per unit
 Write a C program which reads the units and print the charges */
 
 #include <stdio.h>
