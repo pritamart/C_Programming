@@ -1,4 +1,4 @@
- //author - Pritam Samui
+  //author - Pritam Samui
  //date - 30/11/2022
  //WAP factorial of given number
  #include <stdio.h>
@@ -23,3 +23,8 @@
     }
    return 0;
   }
+  /*output
+  Enter an integer to find its factorial
+5
+5! = 120
+*/
